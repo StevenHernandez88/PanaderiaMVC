@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/PC/OneDrive/Documentos/NetBeansProjects/Panadería/src/controlador/ControladorVentanaInicio.java</file>
+            <file>file:/C:/Users/PC/OneDrive/Documentos/NetBeansProjects/Panadería/src/controlador/ControladorActualizarProducto.java</file>
+            <file>file:/C:/Users/PC/OneDrive/Documentos/NetBeansProjects/Panadería/src/persistencia/ArchivoProducto.java</file>
+            <file>file:/C:/Users/PC/OneDrive/Documentos/NetBeansProjects/Panadería/src/controlador/ControladorAñadirProducto.java</file>
+            <file>file:/C:/Users/PC/OneDrive/Documentos/NetBeansProjects/Panadería/src/panadería/Panadería.java</file>
+            <file>file:/C:/Users/PC/OneDrive/Documentos/NetBeansProjects/Panadería/src/interfaz/ActualizarProducto.java</file>
+            <file>file:/C:/Users/PC/OneDrive/Documentos/NetBeansProjects/Panadería/src/interfaz/AñadirProducto.java</file>
+            <file>file:/C:/Users/PC/OneDrive/Documentos/NetBeansProjects/Panadería/src/interfaz/VentanaInicio.java</file>
+            <file>file:/C:/Users/PC/OneDrive/Documentos/NetBeansProjects/Panadería/src/modelo/CantidadInvalidaException.java</file>
+            <file>file:/C:/Users/PC/OneDrive/Documentos/NetBeansProjects/Panadería/src/modelo/CostoInvalidoException.java</file>
+            <file>file:/C:/Users/PC/OneDrive/Documentos/NetBeansProjects/Panadería/src/modelo/Producto.java</file>
+            <file>file:/C:/Users/PC/OneDrive/Documentos/NetBeansProjects/Panadería/src/util/ExportadorCSV.java</file>
+        </group>
+    </open-files>
+</project-private>
